@@ -3,6 +3,6 @@ Exec {
 }
 
 include nginx
-include massiveapp
 include mysql
+include unicorn
 
